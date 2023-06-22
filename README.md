@@ -39,7 +39,7 @@
 11. Key Vault
 12. Secret Scope
 13. Data Lake
-14. Delta Lake
+14. Delta Lake 
 15. Parquet and Delta formats
 16. Bad records
 17. Time Travel
